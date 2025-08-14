@@ -5,5 +5,5 @@
 - My favorite hobbies are reading, hitting the gym and playing video games, so when I'm not here posting/updating code, I'm probably doing one of those.
 
 # What i'm learning now
-- At the moment I'm reading the book "Grokking Algorithms" so I can have a better understanding about programming logic in general.
-- I'm also trying to improve my understanding about Python and Data Analysis with Python.
+- At the moment I'm studying some of the main Python libraries, like Selenium and Scikit-learn.
+- I've also begun learning another programming language, JavaScript.

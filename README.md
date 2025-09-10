@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Alessandro Xavier 😃  
 
 🎓 Software Engineering student from Brazil  
-💻 Currently learning Object Oriented Programming with C# and Java  
-🌱 Also diving into SQL to expand my knoledge about data bases  
+💻 Currently learning Object-Oriented Programming with C# and Java  
+🌱 Also diving into SQL to expand my knowledge about databases  
 📚 In my free time, I enjoy reading, hitting the gym, and playing video games
 
 ---
@@ -18,13 +18,24 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)    
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 📌 What I'm Learning Now
-- C#: Object Oriented Programming
-- Java: Object Oriented Programming  
+- **C#**: Object-Oriented Programming  
+- **Java**: Object-Oriented Programming  
+- **SQL**: Databases and queries   
+
+---
+
+## 📌 Featured Projects
+- [**Password Generator in Python**](https://github.com/AM-Xavier/password-generator) - Password generator application
+- [**Web Scraping with Selenium**](https://github.com/AM-Xavier/steam-offers-scraper) - Learning web automation
+- [**OOP in C# Examples**](https://github.com/AM-Xavier/oop-csharp) – Practicing Object-Oriented concepts  
+- [**Java Fundamentals**](https://github.com/AM-Xavier/java-fundamentals) – Exercises and small applications
 
 ---
 

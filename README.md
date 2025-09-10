@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Alessandro Xavier 😃  
 
 🎓 Software Engineering student from Brazil  
-💻 Currently learning Python (Data Analysis, Selenium, Scikit-learn)  
-🌱 Also diving into JavaScript to expand my stack  
+💻 Currently learning Object Oriented Programming with C# and Java  
+🌱 Also diving into SQL to expand my knoledge about data bases  
 📚 In my free time, I enjoy reading, hitting the gym, and playing video games
 
 ---
@@ -15,12 +15,13 @@
 ---
 
 ## 🚀 Tech Stack & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)    
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white).
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white).
 
 ---
 
